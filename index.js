@@ -264,6 +264,7 @@ function removeArtist(arr, index) {
     console.log(arr.length);
 }
 removeArtist(artists, 0);
+console.log(artists);
 /**
 /* Task 6: Create a function called `addArtist` that can accept an object of information and add it to the artists array. Then, add a 21st artist to the array (you) with custom information!👩‍🎨👨‍🎨
 

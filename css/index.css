@@ -257,10 +257,11 @@ button:hover {
     .title-container div {
         height: 300px;
         margin-bottom: 1%;
+        width: 100%;
     }
     .title-container button {
-        font-size: 1.4rem;
-        padding: 1.5% 4%;
+        font-size: 1.15rem;
+        padding: 1.5% 3.8%;
     }
     /*middle part */
     .artists-container {
@@ -280,5 +281,8 @@ button:hover {
     }
     .bio {
         font-size: 1.1rem;
+    }
+    .artistBottom {
+        margin-bottom: 20%;
     }
 }
